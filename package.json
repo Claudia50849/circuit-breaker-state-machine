@@ -1,6 +1,6 @@
 {
   "name": "circuit-breaker-state-machine",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Tracks consecutive failures and transitions between closed, open, and half-open states, gating whether a call is permitted based on configurable thresholds.",
   "type": "module",
   "main": "src/index.js",
